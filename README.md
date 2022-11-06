@@ -11,10 +11,12 @@ The original data set contained 4,114 campaigns. 50 of the campaigns were live a
 
 ### Analysis of Outcomes Based on Launch Date
 The data showed the launch date for each campaign. During analysis, these were separated into the individual months of campaign launch. One of the research questions is whether the month of launch makes a significant difference in the outcome of the project. The graph below shows the number of successful, failed, and canceled theater projects based on the month they were launched.  
-![Alt text](../../../../../c:/Users/heidi/Desktop/Analysis%20Projects/Resources/Theater_Outcomes_vs_Launch.png)
+<img width="800" alt="Theater_Outcomes_vs_Launch" src="https://user-images.githubusercontent.com/116980760/200196458-41898913-7204-4ad9-82d6-308f8aeb3d8d.png">
+
 ### Analysis of Outcomes Based on Goals
 The data showed the funding goals for each campaign. One of the research questions is how the Kickstarter goals impact success. The graph below shows the percentage of successful, failed, and canceled theater projects based on the funding goal.
-![Alt text](../../../../../c:/Users/heidi/Desktop/Analysis%20Projects/Resources/Outcomes_vs_Goals.png)
+<img width="800" alt="Outcomes_vs_Goals" src="https://user-images.githubusercontent.com/116980760/200196468-267a0747-8d41-41a1-a62a-775fc2d0bcfb.png">
+
 ### Challenges and Difficulties Encountered
 
 Some of the data was not in an user-friendly format. Dates originally had Unix timestamps and had to be converted to human-readable dates. Parent categories and subcategories were combined in one column and had to be separated for easier analysis. 
